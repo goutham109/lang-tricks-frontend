@@ -1,0 +1,17 @@
+.logo-content {
+  background: rgba(255, 255, 255, 0.75);
+}
+
+#heading-block {
+  text-align: center;
+  padding: 40px;
+  background: url("python bg.jpg") no-repeat;
+  background-size: cover;
+}
+
+#heading-block .logo-content {
+  border-radius: 20px;
+  padding: 40px;
+  max-width: 800px;
+  margin: 0 auto;
+}
